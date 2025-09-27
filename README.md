@@ -1,4 +1,7 @@
-# <img src="https://github.githubassets.com/assets/profile-first-repo-dark-25579720acb4.svg" width="40" height="40"> Machine Learning Project
+<center><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230315175228/Top-100-Machine-Learning-Projects-with-Source-Code-2.png"></center>
+
+
+ Machine Learning Project
 
 A professional **Machine Learning Project** built for data-driven insights and predictive analytics.  
 This repository follows best practices in **data science workflow**, **model development**, and **deployment readiness**.  
